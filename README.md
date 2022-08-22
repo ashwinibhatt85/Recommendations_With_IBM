@@ -16,7 +16,8 @@
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
 ## Project Description
-This project analysing the interactions that users have with articles on the IBM Watson Studio platform, and making recommendations to them about new articles they would like. The project was divided into the following tasks:
+This project analysing the interactions that users have with articles on the IBM Watson Studio platform, and making recommendations to them about new articles they would like. This project is an attempt to solve a conceptual Clustering problem under Unsupervised Machine Learning model by creating a recommendation system for the end users. 
+The project was divided into the following tasks:
  - Exploratory Data Analysis
  - Rank Based Recommendations
  - User-User Based Collaborative Filtering
